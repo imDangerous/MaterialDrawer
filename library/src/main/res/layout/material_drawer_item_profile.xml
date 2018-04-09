@@ -49,7 +49,7 @@
             android:paddingRight="@dimen/material_drawer_item_primary_icon_padding_right"
             android:singleLine="true"
             android:textDirection="anyRtl"
-            android:textSize="@dimen/material_drawer_item_profile_text"
+            android:textSize="24sp"
             tools:text="Some drawer text" />
 
         <TextView
